@@ -103,7 +103,7 @@ You can find much more detail in the [create-react-app documentation][].
 
 ### Other Tools For Creating React Apps
 
-While Create React App is a great choice for your projects at Flatiron, there
+While Create React App is a great choice for your projects at Academy Xi, there
 are some excellent alternatives that might make sense for other projects you
 build later on. The [React Docs][react-docs-create] list a few of the most
 popular ones. A couple of highlights:
